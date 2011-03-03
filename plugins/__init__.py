@@ -19,3 +19,4 @@ from plugins import news
 from plugins import redmine
 from plugins import search
 from plugins import weather
+from plugins import regex
